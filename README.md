@@ -11,7 +11,7 @@
 - 👨‍🔬 Estou me aprofundando em PHP
 - 📘 Já estudei PYTHON, C, C#, JAVA
 - ✉ Contate-me: kauavictor259@gmail.com
-- 📱 Telefone: (77) 9 9983-1299
+- 📱 WhatsApp: (77) 9 9983-1299
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

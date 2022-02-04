@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVicto&layout=compact&langs_count=7&theme=merko"/></a>
 </div><br>
   
-- 🏜 No momento estou bastante focado em front-end
+- 🏜 No momento estou bastante focado em back-end
 - 🤓 Estudando HTML, CSS e JavaScript
 - 👨‍🔬 Estou me aprofundando em PHP
 - 📘 Já estudei Python, C, C# e Java

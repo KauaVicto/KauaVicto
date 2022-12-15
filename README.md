@@ -7,9 +7,9 @@
 </div><br>
   
 - 🏜 No momento estou bastante focado em back-end
-- 🤓 Estudando HTML, CSS e JavaScript
-- 👨‍🔬 Estou me aprofundando em PHP
-- 📘 Já estudei Python, C, C# e Java
+- 🤓 Django e Django Rest Framework
+- 👨‍🔬 Estou me aprofundando em Doctrine
+- 📘 Já estudei PHP, JavaScript, HTML, CSS, BootStrap...
 - ✉ Contate-me: kauavictor259@gmail.com
 - 📱 WhatsApp: (77) 99983-1299
 

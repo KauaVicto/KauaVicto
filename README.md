@@ -2,14 +2,12 @@
 
 <div>
   <a href="https://github.com/KauaVicto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaVicto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVicto&layout=compact&langs_count=7&theme=merko"/></a>
 </div><br>
   
 - 🏜 No momento estou bastante focado em back-end
 - 🤓 Django e Django Rest Framework
 - 👨‍🔬 Estou me aprofundando em Doctrine
-- 📘 Já estudei PHP, JavaScript, HTML, CSS, BootStrap...
+- 📘 Já estudei Python, PHP, JavaScript, HTML, CSS, BootStrap...
 - ✉ Contate-me: kauavictor259@gmail.com
 - 📱 WhatsApp: (77) 99983-1299
 

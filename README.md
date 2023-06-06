@@ -4,11 +4,11 @@
   <a href="https://github.com/KauaVicto">
 </div><br>
   
-- 🏜 No momento estou bastante focado em back-end
+- 🏜 No momento estou bastante focado em criação de API RESTful
 - 🤓 Django e Django Rest Framework
-- 👨‍🔬 Estou me aprofundando em Doctrine
+- 👨‍🔬 Estou me aprofundando em Nodejs e TypeScript
 - 📘 Já estudei Python, PHP, JavaScript, HTML, CSS, BootStrap...
-- ✉ Contate-me: kauavictor259@gmail.com
+- ✉ Contate-me: kauavicto.dev@gmail.com
 - 📱 WhatsApp: (77) 99983-1299
 
 <div style="display: inline_block"><br>
